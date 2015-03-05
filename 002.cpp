@@ -10,8 +10,7 @@
 
 int Arr[100];
 
-int main()
-{
+int main(){
     Arr[0] = 1;
     Arr[1] = 1;
     int sum = 0;
